@@ -1,19 +1,24 @@
 .bianco{
     background-color: white;
+    height: 20px;
 }
 
 .nero{
     background-color: black;
+    height: 20px;
 }
 
 .marrone{
     background-color: #996132;
+    height: 20px;
 }
 
 .avorio{
     background-color: #F4FDCD;
+    height: 20px;
 }
 
 .rosa{
     background-color: #F8D090;
+    height: 20px;
 }
