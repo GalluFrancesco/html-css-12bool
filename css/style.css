@@ -1,0 +1,22 @@
+
+.bg-blu{
+    background-color: #006EFF;
+    color: white;
+    border: white 1px solid;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+}
+
+.bg-green{
+    background-color: #00E552;
+    border: #006EFF 1px solid;
+    color: white;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.padding{
+    padding: 10px;
+}
